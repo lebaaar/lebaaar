@@ -1,7 +1,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lebaaar&show_icons=true&title_color=542db8&icon_color=542db8&text_color=c9d1d9&bg_color=0d1117)
 
 ## Technologies 🛠️
-- **Languages:** C#, Java, Python, Dart, SQL, Typescript, HTML, CSS
+- **Languages:** C#, TypeScript, Java, Python, Dart, HTML, CSS
 - **Frameworks:** Angular, .NET, Flutter, Express.js
 - **Tools:** Git, Docker, Jira, Linux
 - **Dabases:** PostgreSQL, MSSQL, MySQL, MongoDB
