@@ -1,4 +1,4 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lebaaar&show_icons=true&title_color=fff&text_color=ffffff&bg_color=0d1117&icon_color=552db6&hide_border=true&border_radius=12)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lebaaar&show_icons=true&title_color=fff&text_color=ffffff&bg_color=0d1117&icon_color=552db6&hide_border=true&border_radius=12&hide_rank=true)
 
 Computer science student && part-time software developer.
 
