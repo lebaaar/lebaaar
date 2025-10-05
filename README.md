@@ -6,7 +6,7 @@ Computer science student && part-time software developer.
 [![Organization](https://img.shields.io/badge/Organization-potegnime-552db6?style=for-the-badge&logo=github)](https://github.com/potegnime)
 
 
-## Technologies 🛠
+## Technologies
 - **Languages:** C#, TypeScript, Java, Python, Dart, HTML, CSS
 - **Frameworks & Libraries:** Angular, .NET, Flutter, Express.js
 - **Tools & Platforms:** Git, Docker, Atlassian products, Linux
