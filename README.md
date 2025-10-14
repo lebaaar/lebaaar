@@ -3,7 +3,9 @@
 Computer science student && software developer
 
 ## Projects
-[![Organization](https://img.shields.io/badge/Organization-potegnime-552db6?style=for-the-badge&logo=github)](https://github.com/potegnime)
+- [potegni.me](https://github.com/potegnime) - Torrent search platform. See [GitHub oranization](https://github.com/potegnime) for more
+- Websites built for local logistis company
+- Multiple school projects...
 
 
 ## Technologies
