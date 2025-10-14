@@ -2,10 +2,8 @@
 
 Computer science student && software developer
 
-## Projects
-- [potegni.me](https://github.com/potegnime) - Torrent search platform. See [GitHub oranization](https://github.com/potegnime) for more
-- Websites built for local logistis company
-- Multiple school projects...
+## Projects 
+- [potegni.me](https://github.com/potegnime) - Torrent search platform - see [GitHub organization](https://github.com/potegnime) for more
 
 
 ## Technologies
