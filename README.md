@@ -1,8 +1,8 @@
 # Lan Lebar
 Computer science student && software developer
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lebaaar&show_icons=true&title_color=fff&text_color=ffffff&bg_color=0d1117&icon_color=552db6&hide_border=true&border_radius=12&hide_rank=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lebaaar&layout=compact&hide=HTML&title_color=fff&text_color=ffffff&bg_color=0d1117&icon_color=552db6&hide_border=true&border_radius=12)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lebaaar&show_icons=true&title_color=fff&text_color=ffffff&bg_color=0d1117&icon_color=542DB7&hide_border=true&border_radius=12&hide_rank=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lebaaar&layout=compact&hide=HTML&title_color=fff&text_color=ffffff&bg_color=0d1117&icon_color=542DB7&hide_border=true&border_radius=12)
 
 ## Projects 
 - [potegni.me](https://potegni.me) - Torrent search platform, see [GitHub organization](https://github.com/potegnime) for more
@@ -14,7 +14,7 @@ Computer science student && software developer
 ## Technologies
 - **Languages:** C#, TypeScript, Java, Python, Dart, HTML, CSS
 - **Frameworks & Libraries:** Angular, .NET, Flutter, Express.js
-- **Tools & Platforms:** Git, Docker, Atlassian products, Linux
+- **Tools & Platforms:** Git, Docker, Linux, Atlassian products
 - **Databases:** PostgreSQL, MSSQL, MySQL, MongoDB
 
 ## Connect 
