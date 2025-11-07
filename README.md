@@ -13,7 +13,7 @@ Computer science student && software developer
 ## Technologies
 - **Languages:**: TypeScript, C#, Python, Dart, Java, HTML, CSS
 - **Frameworks & Libraries:** Angular, .NET, Flutter, Express.js
-- **Tools & Platforms:** Git, Docker, Linux, Atlassian tools, CloudFlare
+- **Tools & Platforms:** Git, Docker, AWS, Cloudflare, Linux, Atlassian tools
 - **Databases:** PostgreSQL, MSSQL, MySQL, MongoDB
 
 ## Connect 
