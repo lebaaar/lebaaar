@@ -1,8 +1,6 @@
 # Lan Lebar
 Computer science student && software developer
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lebaaar&show_icons=true&title_color=fff&text_color=ffffff&bg_color=0d1117&icon_color=542DB7&hide_border=true&border_radius=12&hide_rank=true)
-
 ## Projects 
 - [potegni.me](https://potegni.me) - Torrent search platform - [GitHub organization](https://github.com/potegnime) for more
 - [Period Tracker](https://github.com/lebaaar/period_tracker) - Flutter mobile app I built for my girlfriend
