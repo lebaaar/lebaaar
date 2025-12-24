@@ -13,6 +13,3 @@ Computer science student && software developer
 - **Frameworks & Libraries:** Angular, .NET, Flutter, Express.js
 - **Tools & Platforms:** Docker, AWS, Cloudflare, Linux
 - **Databases:** PostgreSQL, MSSQL, MySQL, MongoDB
-
-## Connect 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lan-lebar)  
