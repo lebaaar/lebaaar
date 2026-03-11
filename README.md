@@ -8,8 +8,9 @@ Computer science student && software developer
 - [Password Manager](https://github.com/lebaaar/password_manager) - Desktop password manager written in Python with Tkinter, Fernet encryption
 - [Logistics Company Website](https://lebaaar.github.io/mlin_transport) - Website built for a local logistics company
   
-## Technologies
-- **Languages:**: TypeScript, C#, Python, Dart, Java, HTML, CSS, JavaScript
-- **Frameworks & Libraries:** Angular, .NET, Flutter, Express.js
-- **Tools & Platforms:** Docker, AWS, Cloudflare, Linux
-- **Databases:** PostgreSQL, MSSQL, MySQL, MongoDB
+## Tech Stack
+- **Languages:** TypeScript, C#, Python, Java, Dart, SQL
+- **Frontend:** SvelteKit, Angular, Tailwind, HTML, (S)CSS, JS
+- **Backend:** .NET, Express.js, Firebase
+- **Mobile:** Flutter
+- **Tools & Platforms:** Docker, Cloudflare, AWS, Azure, Linux
