@@ -2,8 +2,8 @@
 Computer science student && software developer
 
 ## Projects 
-- [domacahrana.si](https://domacahrana.si) - Local food  marketplace, enabling people to buy and sell locally produced food.
-- [potegni.me](https://potegni.me) - Torrent search platform - [GitHub organization](https://github.com/potegnime) for more
+- [domacahrana.si](https://domacahrana.si) - Local food  marketplace, enabling people to buy and sell locally produced food
+- [potegni.me](https://potegni.me) - Torrent search platform for more
 - [Period Tracker](https://github.com/lebaaar/period_tracker) - Flutter mobile app I built for my girlfriend
 - [lan.si](https://lan.si) - My personal website, built with SvelteKit
 - [Password Manager](https://github.com/lebaaar/password_manager) - Desktop password manager written in Python with Tkinter, Fernet encryption
