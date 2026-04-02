@@ -11,7 +11,7 @@ Computer science student && software developer
   
 ## Tech Stack
 - **Languages:** TypeScript, C#, Python, Java, Dart, SQL
-- **Frontend:** SvelteKit, Angular, Tailwind, HTML, (S)CSS, JS
-- **Backend:** .NET, Express.js, Firebase
+- **Frontend:** SvelteKit, Angular, Tailwind CSS, HTML, (S)CSS, JS
+- **Backend:** .NET, Node.js, Firebase
 - **Mobile:** Flutter
-- **Tools & Platforms:** Docker, Cloudflare, AWS, Azure, Linux
+- **Tools & Platforms:** Docker, Cloudflare, Azure, Linux, Firebase
