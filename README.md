@@ -1,7 +1,5 @@
 # Lan Lebar
-Software developer && Computer science student
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lebaaar&theme=github_dark)
+Software developer && Computer Science student
 
 ## Projects
 - [domacahrana.si](https://domacahrana.si) - Local food  marketplace
